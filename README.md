@@ -23,7 +23,7 @@ I'm building toward open AI infrastructure - starting with memory, then the syst
 
 ## GitHub Activity
  
-![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=kirnsaal&hide_border=true)
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=kirnsal&hide_border=true)
 
 ## Connect
 
